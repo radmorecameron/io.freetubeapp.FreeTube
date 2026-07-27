@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component type="desktop-application">
-  <id type="desktop-application">io.freetubeapp.FreeTube</id>
+  <id>io.freetubeapp.FreeTube</id>
   <metadata_license>CC0-1.0</metadata_license>
   <name>FreeTube</name>
   <summary>An Open Source YouTube app for privacy</summary>
@@ -17,6 +17,7 @@
   <categories>
     <category>AudioVideo</category>
     <category>Video</category>
+    <category>Player</category>
   </categories>
   <url type="homepage">https://freetubeapp.io/</url>
   <url type="bugtracker">https://github.com/FreeTubeApp/FreeTube/issues</url>
@@ -24,8 +25,11 @@
   <url type="contribute">https://docs.freetubeapp.io/development/getting-started</url>
   <url type="vcs-browser">https://github.com/FreeTubeApp/FreeTube</url>
   <url type="translate">https://hosted.weblate.org/engage/free-tube/</url>
+  <url type="contact">https://freetubeapp.io/#contact</url>
   <project_license>AGPL-3.0+</project_license>
-  <developer_name>FreeTube Team</developer_name>
+  <developer id="io.freetubeapp">
+    <name>FreeTube Team</name>
+  </developer>
   <screenshots>
     <screenshot type="default">
       <caption>The main FreeTube window</caption>
@@ -40,17 +44,20 @@
       <image type="source" width="1920" height="1040">https://raw.githubusercontent.com/FreeTubeApp/FreeTubeApp.io/master/src/images/FreeTube3.png</image>
     </screenshot>
   </screenshots>
-  <content_rating type="oars-1.0">
-    <content_attribute id="social-chat">moderate</content_attribute>
-    <content_attribute id="social-audio">moderate</content_attribute>
-    <content_attribute id="social-contacts">intense</content_attribute>
-  </content_rating>
+  <content_rating type="oars-1.1" />
+  <branding>
+    <color type="primary" scheme_preference="light">#ff3333</color>
+    <color type="primary" scheme_preference="dark">#ff3333</color>
+  </branding>
   <!-- Desktop AND mobile supported -->
   <supports>
     <control>keyboard</control>
     <control>pointing</control>
     <control>touch</control>
   </supports>
+  <recommends>
+    <internet>always</internet>
+  </recommends>
   <requires>
     <display_length compare="ge">360</display_length>
   </requires>
