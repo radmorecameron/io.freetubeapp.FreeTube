@@ -19,14 +19,8 @@
   </description>
   <launchable type="desktop-id">io.freetubeapp.FreeTube.desktop</launchable>
   
-  <categories>
-    <category>AudioVideo</category>
-    <category>Video</category>
-    <category>Player</category>
-  </categories>
-
   <branding>
-    <color type="primary" scheme_preference="light">#ff3333</color>
+    <color type="primary" scheme_preference="light">#29abe1</color>
     <color type="primary" scheme_preference="dark">#ff3333</color>
   </branding>
 
