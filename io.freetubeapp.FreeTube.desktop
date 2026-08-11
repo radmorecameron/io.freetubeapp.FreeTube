@@ -8,4 +8,5 @@ Type=Application
 StartupNotify=true
 StartupWMClass=FreeTube
 Categories=AudioVideo;Video;Player;Feed;Network;
+Keywords=youtube;video;yt;invidious;sponsorblock;
 MimeType=x-scheme-handler/freetube;
