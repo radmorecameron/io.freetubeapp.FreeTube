@@ -4,7 +4,7 @@
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>AGPL-3.0+</project_license>
   <name>FreeTube</name>
-  <summary>A private way to watch YouTube</summary>
+  <summary>Watch YouTube privately</summary>
   <developer id="io.freetubeapp">
     <name>FreeTube Team</name>
   </developer>
@@ -20,8 +20,8 @@
   <launchable type="desktop-id">io.freetubeapp.FreeTube.desktop</launchable>
   
   <branding>
-    <color type="primary" scheme_preference="light">#29abe1</color>
-    <color type="primary" scheme_preference="dark">#ff3333</color>
+    <color type="primary" scheme_preference="light">#f06a73</color>
+    <color type="primary" scheme_preference="dark">#8b1e2d</color>
   </branding>
 
   <content_rating type="oars-1.1" />
