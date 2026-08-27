@@ -36,16 +36,32 @@
 
   <screenshots>
     <screenshot type="default">
-      <caption>The main FreeTube window</caption>
-      <image type="source" width="1920" height="1040">https://raw.githubusercontent.com/FreeTubeApp/FreeTubeApp.io/master/src/images/FreeTube1.png</image>
-    </screenshot>
-    <screenshot>
+      <image>https://raw.githubusercontent.com/FreeTubeApp/FreeTubeApp.io/833dcbd6d0c53f5e0d9add84752eef101a4c25b1/src/images/FreeTubeFlathub1.png</image>
       <caption>Watching a video</caption>
-      <image type="source" width="1920" height="1040">https://raw.githubusercontent.com/FreeTubeApp/FreeTubeApp.io/master/src/images/FreeTube2.png</image>
     </screenshot>
     <screenshot>
-      <caption>Settings</caption>
-      <image type="source" width="1920" height="1040">https://raw.githubusercontent.com/FreeTubeApp/FreeTubeApp.io/master/src/images/FreeTube3.png</image>
+      <image>https://raw.githubusercontent.com/FreeTubeApp/FreeTubeApp.io/833dcbd6d0c53f5e0d9add84752eef101a4c25b1/src/images/FreeTubeFlathub2.png</image>
+      <caption>Browse videos from subscribed channels</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/FreeTubeApp/FreeTubeApp.io/833dcbd6d0c53f5e0d9add84752eef101a4c25b1/src/images/FreeTubeFlathub3.png</image>
+      <caption>Search for and discover content</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/FreeTubeApp/FreeTubeApp.io/833dcbd6d0c53f5e0d9add84752eef101a4c25b1/src/images/FreeTubeFlathub4.png</image>
+      <caption>Manage subscribed channels</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/FreeTubeApp/FreeTubeApp.io/833dcbd6d0c53f5e0d9add84752eef101a4c25b1/src/images/FreeTubeFlathub5.png</image>
+      <caption>Create playlists and save videos for later</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/FreeTubeApp/FreeTubeApp.io/833dcbd6d0c53f5e0d9add84752eef101a4c25b1/src/images/FreeTubeFlathub6.png</image>
+      <caption>View your watch history</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/FreeTubeApp/FreeTubeApp.io/833dcbd6d0c53f5e0d9add84752eef101a4c25b1/src/images/FreeTubeFlathub7.png</image>
+      <caption>Watch a video in dark mode</caption>
     </screenshot>
   </screenshots>
 
